@@ -7,15 +7,6 @@ Frontend Github Link: https://github.com/krish-7104/notes_frontend
 
 The backend API was built using Node.js and Express.js, and the database was managed using MongoDB. The frontend was developed using React.js, with Redux used for state management. The combination of these technologies allowed for a seamless integration between the front and back ends, creating a fast and responsive web app.
 
-
-## Deployed Website
-
-https://notesatease.vercel.app/
-
-Api Deployed On Render.com
-
-Frontend On Vercel.com
-
 ## Tech Stack
 
 Nodejs, Expressjs, MongoDB
