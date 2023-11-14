@@ -13,5 +13,5 @@ Nodejs, Expressjs, MySql
 
 ## Youtube Video
 
-Insert gif or link to demo
+https://www.youtube.com/watch?v=K2uKkV6UxKg&ab_channel=KrishJotaniya
 
